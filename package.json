@@ -1,0 +1,26 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Welcome to the Natours Application! This project is a comprehensive, feature-rich application designed to demonstrate modern back-end development using Node.js, Express, and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/khadija-nizam/natours.git"
+  },
+  "author": "Khadija Nizam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khadija-nizam/natours/issues"
+  },
+  "homepage": "https://github.com/khadija-nizam/natours#readme",
+  "dependencies": {
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
